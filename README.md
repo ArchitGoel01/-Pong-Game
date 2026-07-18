@@ -6,7 +6,7 @@ A classic **2-Player Pong Game** built using **Python Turtle Graphics** with **P
 
 ## 📸 Preview
 
-![Pong Game Screenshot](<img width="996" height="788" alt="image" src="https://github.com/user-attachments/assets/68b72439-a361-497c-b21f-792964a6ae21" />)
+![Pong Game Screenshot]<img width="996" height="788" alt="image" src="https://github.com/user-attachments/assets/68b72439-a361-497c-b21f-792964a6ae21" />
 
 ---
 
